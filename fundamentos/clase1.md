@@ -102,7 +102,6 @@ typeof {name: "Sergio"}
         - Un objeto es una coleccion de propiedades(Propiedad es una asociación
           de clave y valor)
         - JavaScript esta diseñado en un paradigma de Objetos
-- [Ejemplo0](../examples/2-basic/1-data-types/README.md)
 
 ## Variables
 - Para crear variables en javascript se utiliza el formato CamelCase.
@@ -114,7 +113,7 @@ typeof {name: "Sergio"}
 - keywords para declarar variables
     - `var`
     - `let`
-- [Ejemplo1](../examples/2-basic/ejemplo1/README.md)
+
 
 # Operadores
 - [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
@@ -138,7 +137,6 @@ typeof {name: "Sergio"}
 - División `/`
 - Modulo `%` es el restante de una división
 - Potencia `**` calcula la potencia de un numero
- - [Ejemplo2](../examples/2-basic/ejemplo2/README.md)
 
 ## Operadores de comparación
 - `==` igual, compara el valor
@@ -149,7 +147,6 @@ typeof {name: "Sergio"}
 - `>` mayor que
 - `<=` menor o igual que
 - `>=` mayor o igual que
-- [Ejemplo3](../examples/2-basic/ejemplo3/README.md)
 
 ## Operadores de Asignación
 - Un operador de asignación asigna un valor a su operando izquierdo en funcion de su valor de su operando derecho.
@@ -205,25 +202,24 @@ var x = x ^ y;
 var x |= y;
 var x = x | y;
 ```
-- [Ejemplo4](../examples/2-basic/ejemplo4/README.md)
+
 
 ## Operadores Logicos
 - `!expresion` Realiza una negación en la expresión
 - `&&` AND
 - `||` OR
-- [Ejemplo5](../examples/2-basic/ejemplo5/README.md)
 
 ## Operadores de incremento y decremento
 - `++i` Pre incremento
 - `i++` Post incremento
 - `--i` Pre decremento
 - `i--` Post decremento
-- [Ejemplo6](../examples/2-basic/ejemplo6/README.md)
+
 
 ## Operador Ternario
 - El operador tenerario si lo utilizo en java, php, dart y podra utilizarlo en javascript de la misma forma.
 - `condition ? (statement if true) : (statement if false);`
-- [Ejemplo7](../examples/2-basic/ejemplo7/README.md)
+
 
 ## 'use strict'
 - Es ingnorado por navegadores antiguos porque esta entre comillas simples y es manejado como una expresion.
